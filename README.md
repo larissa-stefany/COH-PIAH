@@ -39,5 +39,3 @@ Sab é o grau de similaridade entre os textos a e b;
 fi,a é o valor de cada traço linguístico i no texto a; e
 fi,b é o valor de cada traço linguístico i no texto b.
 Perceba que quanto mais similares a e b forem, menor Sab será. Para cada texto, você deve calcular o grau de similaridade com a assinatura do portador de COH-PIAH e no final exibir qual o texto que mais provavelmente foi escrito por algum aluno infectado.
-
-Exemplo:
